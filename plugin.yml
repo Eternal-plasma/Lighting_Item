@@ -1,0 +1,15 @@
+main: com.Dorian.csunyaszo.Main
+version: 64.1
+name: VillamosPalcikaxd
+author: Dorian2004
+description: Troll plugin
+
+commands:
+   lstick: 
+      usage: /<command>
+      description: This will give you a Lightning Stick!
+
+permissions:
+   lstick.get: 
+      description: You need this permission. 
+      default: op
