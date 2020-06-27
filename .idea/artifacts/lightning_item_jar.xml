@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="lightning_item:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/lightning_item_jar</output-path>
+    <root id="archive" name="lightning_item.jar">
+      <element id="module-output" name="lightning_item" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/Dependencies/spigot-api-1.15.2-R0.1.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
