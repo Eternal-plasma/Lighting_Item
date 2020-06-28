@@ -1,4 +1,6 @@
 name: LightningStick
-main: com.eternal_plasma.lightningitem.Main
+main: com.eternal_plasma.lightningrod.Main
 version: 1.1
 api-version: 1.14
+permissions:
+  lig.strike:
