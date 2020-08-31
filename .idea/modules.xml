@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/lightning_item.iml" filepath="$PROJECT_DIR$/lightning_item.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lightning Rod.iml" filepath="$PROJECT_DIR$/Lightning Rod.iml" />
     </modules>
   </component>
 </project>

@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Lightning Rod:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Lightning_Rod_jar</output-path>
+    <root id="archive" name="Lightning Rod.jar">
+      <element id="module-output" name="Lightning Rod" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/Dependencies/spigot-api-1.16.2.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
